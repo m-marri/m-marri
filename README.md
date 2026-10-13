@@ -4,6 +4,10 @@
 **m-marri/m-marri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- who are you?
+- What are you currently working on?
+- what tools do you use?
+- how to reach you?
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
