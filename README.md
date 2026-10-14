@@ -26,4 +26,4 @@ Thesis supervised by [Giovanni Di Liberto](https://en.unimib.it/giovanni-liberto
 ## Looking for a PhD (2027)
 Theoretical chemistry, computational materials science or condensed matter physics, especially:
 * Thermodynamics of complex interfaces.
-* Statistical mechanics combined with ML an empirical potentials.
+* Statistical mechanics combined with ML and empirical potentials.
