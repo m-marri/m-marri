@@ -5,6 +5,8 @@
 I build automated workflows to construct, relax and analyze 2D/3D heterojunctions
 across translations and twist angles, to understand how atomic-scale structure
 controls interfacial stability and energetics.
+Thesis supervised by [Giovanni Di Liberto](https://en.unimib.it/giovanni-liberto) (Milano-Bicocca) and
+[Stefan T. Bromley](https://www.iqtc.ub.edu/staff/bromley-stefan-t/) (UB), during an Erasmus+ traineeship at IQTC, Barcelona.
 
 ## Research Interests
 * **Interfacial Thermodynamics & Stability:** how registry and twist angle set interfacial energy.
