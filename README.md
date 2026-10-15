@@ -18,7 +18,7 @@ Thesis supervised by [Giovanni Di Liberto](https://en.unimib.it/giovanni-liberto
 | Area | Tools |
 | :--- | :--- |
 | **Electronic Structure** | DFT, VASP |
-| **Atomistic Simulation** | ASE, LAMMPS, MACE, Molecular Dynamics |
+| **Atomistic Simulation** | ASE, LAMMPS, MACE |
 | **Programming** | Python, NumPy, SciPy, Pandas, Bash |
 | **Visualisation** | OVITO, VESTA, Matplotlib |
 | **Infrastructure** | Git, HPC, SLURM, SQLite, LaTeX |
